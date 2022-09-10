@@ -1,0 +1,6 @@
+This repository contains C++ code for a trip wire system for circuit and circuit diagram please refer the following link
+
+
+https://www.tinkercad.com/things/2kuClZhKHM1
+
+
